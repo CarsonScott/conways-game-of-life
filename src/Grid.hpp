@@ -1,6 +1,8 @@
 #ifndef GRID_HPP_INCLUDED
 #define GRID_HPP_INCLUDED
 
+#include <vector>
+
 class Grid
 {
     std::vector<std::vector<int>> cells;
